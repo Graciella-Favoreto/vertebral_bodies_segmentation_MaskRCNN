@@ -5,6 +5,11 @@ This repository hosts my final paper in biomedical informatics, focused on lever
 
 <img src="Examples\segmentation_model.gif">
 
+# Mask R-CNN
+Mask R-CNN is a versatile framework for segmenting object instances, capable of efficiently detect objects in images by generating high-performance segmentation masks quality for each instance
+
+<img src="Examples\maskrcnn.png">
+
 # Key Features
 
 * Automated segmentation of lumbar vertebral bodies using Mask R-CNN.
