@@ -3,12 +3,16 @@
 
 This repository hosts my final paper in biomedical informatics, focused on leveraging cutting-edge computer vision and machine learning techniques to segment vertebral bodies. The study proposes the use of the Mask R-CNN Convolutional Neural Network architecture for the automated segmentation of lumbar vertebral bodies in MRI scans. This work was developed at the USP Faculty of Medicine in Ribeirão Preto, the images are not publicly available, but you can contact Prof Paulo if you need them pmarques@fmrp.usp.br
 
-<img src="Examples\segmentation_model.gif">
+<p align="center">
+  <img src="Examples\segmentation_model.gif" width="500">
+</p>
 
 # Mask R-CNN
 Mask R-CNN is a versatile framework for segmenting object instances, capable of efficiently detect objects in images by generating high-performance segmentation masks quality for each instance
 
-<img src="Examples\maskrcnn.png">
+<p align="center">
+  <img src="Examples/maskrcnn.png" width="500">
+</p>
 
 # Key Features
 
